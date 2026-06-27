@@ -1,4 +1,4 @@
-# Global Health Indicators Dashboard (Health Atlas)
+# Health Atlas - Global Health Indicators Dashboard 
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny%20for%20Python-app-1F7A63)
