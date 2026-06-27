@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Editor / OS
+.ipynb_checkpoints/
+.DS_Store
+
+# shinyapps.io deployment metadata (machine-specific, no secrets)
+rsconnect-python/

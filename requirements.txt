@@ -1,0 +1,13 @@
+# Runtime dependencies for shinyapps.io (Python 3.12).
+# Unpinned so pip resolves a mutually-compatible set on the server.
+# pydantic is listed explicitly: a newer Shiny sub-dependency (shinychat)
+# imports it but doesn't always pull it in on a fresh install — without this
+# line the app builds fine but fails at launch with "No module named 'pydantic'".
+shiny
+shinywidgets
+ipyleaflet
+faicons
+pandas
+numpy
+plotly
+pydantic
